@@ -33,7 +33,8 @@ Any character who examines the mess in the cabin realizes that someone recently 
 
 ### Adventuring Equipment
 
-[Urgon](./NPCs/Urgon-Wenth.md)’s adventuring equipment consists of: 
+[Urgon](./NPCs/Urgon-Wenth.md)’s adventuring equipment consists of:
+
 - a silvered maul
 - a suit of splint armor sized for a dwarf
 - bulky, fur-lined clothing sized for a dwarf
@@ -138,7 +139,23 @@ The figure in the bed is the unfortunate [Verla Pelc](./NPCs/Verla-Pelc.md), who
 
 Questioning any of the [bandits](./Monsters/Bandit.md) can turn up solid leads that can take the characters to [Croaker Cave](./Locations/Croaker-Cave.md), or back to [Tulgi’s cabin](./Locations/Tulgi-Cabin.md) if there are other questions the dwarf has yet to answer. If they were unable to question the [bandits](./Monsters/Bandit.md), you can have one of the [bandits](./Monsters/Bandit.md) carrying orders from [Hulil](./NPCs/Hulil-Lutan.md) that point toward the [Croaker Cave hideout](./Locations/Croaker-Cave.md).
 
+## Rewards and Continue (B6)
+
+### Hints
+
+Once the characters have the cracked vial, they can report back to [Elro Aldataur](./NPCs/Elro-Aldataur.md). He pays them 100 gp as promised but asks the characters to stay in town. He is quite certain he’ll have need of their services again soon.
+
+The next morning, [Elro](./NPCs/Elro-Aldataur.md) comes to the characters with somber news. [Irven](./NPCs/Irven-Liel.md) and her family (Fenton, Honor, and Magic) are all afflicted with [frigid woe](./Spells/Frigid-Woe.md). Seeing the blue powder in the vial has allowed [Elro](./NPCs/Elro-Aldataur.md) to consult old lore and learn a few things about the disease. (If the characters didn’t learn the name of the affliction from [Hulil](./NPCs/Hulil-Lutan.md), [Elro](./NPCs/Elro-Aldataur.md) is the source of that name as well.)
+
+[Elro](./NPCs/Elro-Aldataur.md) knows that [frigid woe](./Spells/Frigid-Woe.md) is said to have only one cure—a milky liquid the Aeorians stored in gold vials. He hopes that the cure might be found in the same place [Urgon](./NPCs/Urgon-Wenth.md) found the vials of [frigid woe](./Spells/Frigid-Woe.md) in [Eiselcross](./Locations/Eiselcross.md). The retired ranger asks the characters to travel to the islands of [Eiselcross](./Locations/Eiselcross.md) and retrace [Urgon’s](./NPCs/Urgon-Wenth.md) path, hoping they can find the cure. He offers the party 200 gp for the task, and reminds them that time is of the essence for [Irven](./NPCs/Irven-Liel.md) and his family—not to mention for any characters infected with [frigid woe](./Spells/Frigid-Woe.md). If the characters accept, [Elro](./NPCs/Elro-Aldataur.md) gives them a day to prepare and tells them to find him at the village docks when they’re ready to set sail.
+
+The characters advance to 2nd level before traveling to [Eiselcross](./Locations/Eiselcross.md).
+
+### Current status
+
+The characters are in a race against time to cure [Irven](./NPCs/Irven-Liel.md) and her family (and possibly [Hulil](./NPCs/Hulil-Lutan.md) and [Tulgi Lutan](./NPCs/Tulgi-Lutan.md), if the characters are feeling merciful toward those two hardened criminals). [Irven](./NPCs/Irven-Liel.md) and her family have at least sixty days before any of them might die, [Hulil](./NPCs/Hulil-Lutan.md) has at least thirty days, and [Tulgi](./NPCs/Tulgi-Lutan.md) has at least twenty days. You can make saving throws for these NPCs against the disease every ten days, or you can just decide their final fates.
+
 
 [Previous Part (A)](./A-Story-Overview.md)
 
-[Next Part (C)](./C-Croaker%20Cave.md)
+[Next Part (C)](./C-Traveling-to-Eiselcross.md)
